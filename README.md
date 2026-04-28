@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="YOUR_IMAGE_LINK" width="200" style="border-radius:50%;" />
+  <img src="https://raw.githubusercontent.com/Abinaya23-max/Abinaya23-max/main/git.jpeg" width="200" style="border-radius:60%;" />
 </p>
 
 <p align="center">
